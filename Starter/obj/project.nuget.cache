@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1Q1M9ZhmeEZw8OLBSx+uIjQNDEgHW0ExaBCHHuY/bASLvRCjvI4/RNcuu/LiCWwlzpyTp2d2e8ZNkL83zF4gw==",
+  "success": true,
+  "projectFilePath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/yevgenskopets/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/yevgenskopets/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/yevgenskopets/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
